@@ -1,1 +1,19 @@
 /* your code */
+table,td{
+	border: none;
+	border-collapse: collapse;
+    padding-right:20px;
+	padding-top:15px
+}
+th{
+	padding-right:25px;
+	padding-left:9px;
+	background-color:midnightblue;
+	color:white;
+	font-weight:none;
+
+}
+td{
+	background-color:alternate;
+	border-radius:5px;
+}
